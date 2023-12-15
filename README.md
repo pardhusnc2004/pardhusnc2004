@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pardhu_</h1>
 <h3 align="center">A budding MERN Stack developer 💻 and AI & ML Enthusiast 🤖.</h3>
 
-<img align="right" width="400" alt="gif" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif">
+<img align="right" width="300" alt="gif" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif">
 
 - 🔭 I’m currently working on **AI ChatBot**
 
