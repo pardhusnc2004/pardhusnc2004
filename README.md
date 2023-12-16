@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://www.leetcode.com/lightning_mc_queen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lightning_mc_queen" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pardupolisetty21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pardupolisetty21" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/since2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="since2004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
