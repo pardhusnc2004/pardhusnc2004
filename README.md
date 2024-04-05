@@ -3,9 +3,9 @@
 
 <img align="right" width="300" alt="gif" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif">
 
-- 🔭 I’m currently working on **AI ChatBot**
+- 🔭 I’m currently working on **Image to Speech Conversion using NLP and DL transformers**
 
-- 🌱 I’m currently learning **MERN Full Stack.**
+- 🌱 I’m passionate about **AIML.**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-v1-sigma.vercel.app/](https://personal-portfolio-v1-sigma.vercel.app/)
 
