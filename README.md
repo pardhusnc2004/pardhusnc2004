@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pardhasaradhi</h1>
-<h3 align="center">A Full Stack developer 💻 and AI & ML Enthusiast 🤖</h3>
+<h3 align="center">A Full Stack developer (MERN) 💻 and AI & ML Enthusiast 🤖</h3>
 
 - 🔭 I’m currently working on **Cyclone Intensity Estimation using Deep Learning and Computer Vision techniques**
 
