@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 👨‍💻 All of my projects are available at [my Portfolio](https://personal-portfolio-v1-sigma.vercel.app/)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://pardhusnc2004.github.io/personal_portfolio_v2)
 
 - 💬 Ask me about **python, java and c++**
 
